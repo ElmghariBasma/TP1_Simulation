@@ -5,7 +5,7 @@
 - **Assmaa Azaroual**
 
 ## Description
-Projet Unity 6.4 pour le module [Nom du Module] :
+Projet Unity :
 - Scène 3D interactive avec déplacements WASD + souris
 - Interaction par clic sur objets (changement de couleur + logging)
 - Collecte de données utilisateur (clics, temps, positions) export CSV
